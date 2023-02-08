@@ -10,6 +10,12 @@
 			return {
 				
 			};
+		},
+		methods:{
+
+		},
+		onLoad() {
+			
 		}
 	}
 </script>
